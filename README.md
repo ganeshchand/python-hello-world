@@ -36,6 +36,7 @@ python-hello-world/
   | __init__.py
     | hello.py
 | hello.egg-info
+| setup.py
 
 ```
 
@@ -46,3 +47,5 @@ where
 ```hello.py``` is a python module containg the source code.
 
 ```__init__.py``` is required to make Python treat the directory as a python package
+
+```setup.py``` used to create python egg file
