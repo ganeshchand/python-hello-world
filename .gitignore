@@ -1,2 +1,2 @@
-build
-hello.egg-info
+build/
+hello.egg-info/
